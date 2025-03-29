@@ -1,3 +1,7 @@
+- [x] Turn on GitHub Pages
+- [ ] outline my portfolio
+- [ ] Introduce myself to the world
+
 ``` python
 y = "Hello"
 z = " world!"
